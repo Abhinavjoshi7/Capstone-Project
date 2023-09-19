@@ -1,0 +1,19 @@
+.fixed-width-btn {
+    width: 100px;
+    
+}
+.form-container {
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+}
+
+.form-container button {
+
+padding: 5px 10px; 
+}
+.action-cell, .form-container{
+    display: flex;
+    justify-content: start;
+}
